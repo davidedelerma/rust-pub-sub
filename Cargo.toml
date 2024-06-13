@@ -1,0 +1,5 @@
+[package]
+name = "producer-consumer"
+version = "1.78.0"
+edition = "2021"
+[dependencies]
