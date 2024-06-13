@@ -68,7 +68,7 @@ cargo run
 
 This command starts both the publisher and listener threads. The publisher generates and sends simulated sensor data, while the listener receives and decodes the data.
 
-### Running in Separate Terminals
+### Running in Separate Terminals (TO DO!)
 
 To simulate the program running in different terminals:
 
